@@ -2,12 +2,6 @@
 
 Este projeto utiliza **collaborative filtering** para realizar recomendações de filmes com base nas notas e gostos em comum dos usuários. O sistema integra várias ferramentas e tecnologias, como FastAPI, ClickHouse, Streamlit, Airflow e Docker.
 
-## Equipe
-
-- **Gabriel Queiroz Teles** - 2311064  
-- **Pedro Henrique Cabral Jersey** - 2311220  
-- **Matheus Lobo** - 2311199  
-
 ## Tecnologias Utilizadas
 
 - **FastAPI**: API para processamento das recomendações.  
